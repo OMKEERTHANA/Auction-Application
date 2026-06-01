@@ -8,8 +8,20 @@ BidMaster is a full-featured, robust, and highly responsive MERN-stack web appli
 
 ---
 
+## Team Details
+
+| Name | Roll Number |
+| :--- | :--- |
+| **Abiramasree** | AP24110011197 |
+| **Om Keerthana Bhavani** | AP24110011229 |
+| **Nandini** | AP24110011363 |
+| **Soumitha** | AP24110011395 |
+
+---
+
 ## Table of Contents
 
+- [Team Details](#team-details)
 - [Architecture Overview](#architecture-overview)
 - [Key Features](#key-features)
 - [Technology Stack](#technology-stack)
@@ -34,8 +46,6 @@ BidMaster is a full-featured, robust, and highly responsive MERN-stack web appli
   - [Step 3: Start the Backend Server](#step-3-start-the-backend-server)
   - [Step 4: Start the Frontend Application](#step-4-start-the-frontend-application)
 - [Production Build](#production-build)
-- [License](#license)
-- [Authors](#authors)
 
 ---
 
@@ -302,16 +312,4 @@ To build the frontend project for production:
    ```bash
    npm run build
    ```
-This generates a static assets directory (`dist/`) that can be served via static file servers, Nginx, or integrated directly with the Node/Express backend.
-
----
-
-## License
-
-Distributed under the **ISC License**. See standard license agreements for further legal permissions.
-
----
-
-## Authors
-
-- **Soumitha** 
+This generates a static assets directory (`dist/`) that can be served via static file servers, Nginx, or integrated directly with the Node/Express backend. 
